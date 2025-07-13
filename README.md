@@ -2,6 +2,10 @@
 
 This project is a modern web application that transforms raw weather data into actionable, personalized insights, powered by a conversational AI assistant. Forget boring weather stats – this app helps you decide what to do, wear, or even eat based on the current conditions!
 
+<img width="1894" height="881" alt="Screenshot 2025-07-12 203605" src="https://github.com/user-attachments/assets/b25fa9ad-5285-4a15-b41d-695469c0e52f" />
+
+Watch video here - [Click me](https://x.com/Yoges_ai/status/1942943001300603375)
+
 ## ✨ Features
 
 * **Real-time Weather:** Get current temperature, description, humidity, and wind for your location (via Geolocation).
